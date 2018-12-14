@@ -1,4 +1,4 @@
-require "tic_tac_toe_rules"
+require "rules"
 
 describe Rules do
     describe "#winner?" do
